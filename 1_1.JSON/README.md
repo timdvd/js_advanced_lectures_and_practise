@@ -1,7 +1,5 @@
 # JSON = JavaScript Object Notation
-## It is a lightweight format for storing and exchanging data.
-## JSON looks like JavaScript objects, but it is always a string
-## when transmitted between systems (e.g., client <-> server).
+### It is a lightweight format for storing and exchanging data. JSON looks like JavaScript objects, but it is always a string when transmitted between systems (e.g., client <-> server).
 
 // Example JSON string:
 ```
