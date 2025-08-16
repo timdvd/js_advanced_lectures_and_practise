@@ -9,11 +9,11 @@
 
 ### A Promise can be in one of three states:
 
-### Pending → still waiting (not finished yet).
+### - Pending → still waiting (not finished yet).
 
-### Fulfilled → completed successfully → calls .then().
+### - Fulfilled → completed successfully → calls .then().
 
-### Rejected → failed → calls .catch().
+### - Rejected → failed → calls .catch().
 
 ### Example
 ```
