@@ -68,7 +68,7 @@ arr.every(x => x > 0);   // true
 [1,2,3].copyWithin(0,2);     // [3,2,3]
 ```
 
-###🔹 Modern ES6+ methods
+### 🔹 Modern ES6+ methods
 ```
 [1,2,3].includes(2);          // true
 [1,2,3].flatMap(n => [n, n*2]); // [1,2,2,4,3,6]
