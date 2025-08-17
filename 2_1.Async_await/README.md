@@ -64,3 +64,5 @@ loadData();
 ### - When you want cleaner, synchronous-looking async code.
 ### - When multiple awaits depend on each other.
 ### - Always wrap in try/catch for errors.
+
+## ✅ Don't forget to type in cmd  " npm i " in order to get all packages)
