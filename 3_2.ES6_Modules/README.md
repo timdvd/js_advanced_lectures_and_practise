@@ -84,3 +84,5 @@ console.log(role);      // Admin
 ### - export → share code
 ### - import → use shared code
 ### - Helps organize large projects, avoid global variables, and keep code modular.
+
+## ✅ Don't forget to type in cmd " npm i " in order to get all packages)
