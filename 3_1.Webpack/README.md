@@ -113,5 +113,7 @@ npm run build
 
 ### - Image loaders → optimize images
 
-✅ In short:
-Webpack bundles your app’s files (JS, CSS, assets) into efficient code for development and production. It’s like a “build tool” that makes your code ready for the browser.
+## ✅ In short:
+### Webpack bundles your app’s files (JS, CSS, assets) into efficient code for development and production. It’s like a “build tool” that makes your code ready for the browser.
+
+##  Don't forget to type in cmd " npm i " in order to get all packages)
