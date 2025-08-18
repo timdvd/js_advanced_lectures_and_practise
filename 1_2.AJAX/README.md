@@ -33,5 +33,3 @@ fetch("https://api.example.com/data")
 
 ## ✅ In short:
 ### - AJAX is not a programming language — it’s a technique for creating fast, dynamic web applications by updating parts of a page without refreshing it.
-
-### - Do you want me to make this super short (1–2 sentences) for GitHub README, or a detailed explanation with examples?
