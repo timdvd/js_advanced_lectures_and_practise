@@ -44,3 +44,5 @@ json-server --watch db.json --port 3000
 ### - ✅ Prototyping APIs quickly
 ### - ✅ Learning REST API requests
 ### - ❌ Not for production (since it’s fake DB in memory / file)
+
+## ✅Don't forget to type in cmd " npm install " in order to get all packages installed)
