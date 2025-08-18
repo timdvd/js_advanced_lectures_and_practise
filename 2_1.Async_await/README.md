@@ -65,4 +65,4 @@ loadData();
 ### - When multiple awaits depend on each other.
 ### - Always wrap in try/catch for errors.
 
-## ✅ Don't forget to type in cmd  " npm i " in order to get all packages)
+## ✅Don't forget to type in cmd " npm install " in order to get all packages installed)
