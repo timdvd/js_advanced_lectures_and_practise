@@ -116,4 +116,4 @@ npm run build
 ## ✅ In short:
 ### Webpack bundles your app’s files (JS, CSS, assets) into efficient code for development and production. It’s like a “build tool” that makes your code ready for the browser.
 
-##  Don't forget to type in cmd " npm i " in order to get all packages)
+##  ✅Don't forget to type in cmd " npm i " in order to get all packages)
