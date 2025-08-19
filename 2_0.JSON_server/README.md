@@ -46,3 +46,6 @@ json-server --watch db.json --port 3000
 ### - ❌ Not for production (since it’s fake DB in memory / file)
 
 ## ✅Don't forget to type in cmd " npm install " in order to get all packages installed)
+
+## More information is here (with code)
+ - https://github.com/typicode/json-server
