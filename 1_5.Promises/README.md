@@ -72,3 +72,5 @@ getPost();
 ### Use .then() for success, .catch() for errors.
 
 ### Use async/await for cleaner, modern code.
+
+## More information is here - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
