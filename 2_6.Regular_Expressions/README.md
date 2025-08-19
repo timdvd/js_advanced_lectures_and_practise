@@ -91,3 +91,5 @@ console.log(/^Hello/.test("Hello World")); // true
 ✅ In short:
 Regular Expressions = patterns for text matching/search.
 Use /pattern/flags with methods like .test(), .match(), .replace().
+
+### More information is here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
