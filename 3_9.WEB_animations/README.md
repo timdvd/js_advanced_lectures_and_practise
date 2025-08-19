@@ -59,6 +59,6 @@ setTimeout(() => animation.cancel(), 8000); // stop completely
 ### - Use CSS animations for simple, declarative effects.
 ### - Use animate() JS API when you need programmatic control (start, stop, reverse, change speed, etc.).
 
-More information is here:
+### More information is here:
  - animate() method : https://developer.mozilla.org/en-US/docs/Web/API/Element/animate
  - Animation: https://developer.mozilla.org/en-US/docs/Web/API/Animation
