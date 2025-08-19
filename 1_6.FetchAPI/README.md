@@ -1,4 +1,5 @@
-## The fetch API in JavaScript is used to make network requests (like getting data from an API). It returns a Promise that resolves with the response.
+# The fetch API 
+## in JavaScript is used to make network requests (like getting data from an API). It returns a Promise that resolves with the response.
 
 ### Here’s a basic example:
 ```
