@@ -96,3 +96,6 @@ axios.get("/data", { signal: controller.signal });
 controller.abort(); // cancel request
 ```
 ## ✅Don't forget to type in cmd " npm install " in order to get all packages installed)
+
+## More information is here (with code)
+ - https://github.com/axios/axios
