@@ -2,10 +2,10 @@
 
 ## Macrotask Queue (Task Queue)
 1) Contains things like:
- - setTimeout / setInterval
- - setImmediate (Node.js)
- - I/O events
- - UI rendering
+  - setTimeout / setInterval
+  - setImmediate (Node.js)
+  - I/O events
+  - UI rendering
 2) These tasks run one at a time. After each macrotask, the engine checks the microtask queue.
 
 ## Microtask Queue (Job Queue)
