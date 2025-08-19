@@ -42,4 +42,4 @@ requestAnimationFrame(step);
 ### - ✅ Provides a high-res timestamp for precise timing.
 
 ### More information is here:
- - Window: requestAnimationFrame() method: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame
+ - requestAnimationFrame() method: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame
