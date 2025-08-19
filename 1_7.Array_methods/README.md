@@ -81,3 +81,9 @@ Array.from({length:5},(_,i)=>i); // [0,1,2,3,4]
 ### - Use .filter() when selecting some values.
 ### - Use .reduce() when combining into a single value.
 ### - Use .forEach() only for side effects (it doesn’t return).
+
+## More information is here
+- map() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+- filter() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+- reduce() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+- object.entries() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
